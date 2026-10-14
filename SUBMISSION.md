@@ -1,13 +1,14 @@
+## Career positioning
+
+**Primary role:** Product Engineer  
+**Secondary role:** Design Engineer  
+
+**Positioning statement:**  
+I’m a Product Engineer who designs and builds end-to-end web and mobile products for startups and growing businesses.
+
 # Final Graduation Task — Omotola Bello
 
 Product Design and Engineering Bootcamp — Dev and Design HQ
-
-## Target Roles
-
-**Primary role:** TBD  
-**Secondary role:** TBD  
-
-**Positioning statement:** TBD
 
 ---
 
