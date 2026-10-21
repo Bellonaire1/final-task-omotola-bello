@@ -33,9 +33,10 @@ Product Design and Engineering Bootcamp — Dev and Design HQ
 - Reply-rate evidence: TBD
 
 ## Open Source
-- Pull Request 1: TBD
-- Pull Request 2: TBD
-- Merged Pull Request: TBD
+- Pull Request 1: [Minhajna #90 — Date and number formatting](https://github.com/djazairdev/minhajna/pull/90) — MERGED (October 15, 2026)
+- Pull Request 2: [Stellar-MarketPay #1906 — Migration version verification](https://github.com/Emmy123222/Stellar-MarketPay-/pull/1906) — Submitted; upstream currently inaccessible
+- Merged Pull Request: [Minhajna #90](https://github.com/djazairdev/minhajna/pull/90)
+- Stellar backup evidence: [Latest contribution commit](https://github.com/Bellonaire1/Stellar-MarketPay-/commit/d139ae0b4b06dd1704718c0a3bb850a4fabf006d)
 
 ## Edge Project
 - Project: TBD
