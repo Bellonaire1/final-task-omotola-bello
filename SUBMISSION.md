@@ -39,7 +39,7 @@ Product Design and Engineering Bootcamp — Dev and Design HQ
 - Stellar backup evidence: [Latest contribution commit](https://github.com/Bellonaire1/Stellar-MarketPay-/commit/d139ae0b4b06dd1704718c0a3bb850a4fabf006d)
 
 ## Edge Project
-- Project: TBD
+- Project: [Retries Aren't Enough — Reliable Background Jobs with PostgreSQL](https://github.com/Bellonaire1/reliable-pdf-jobs/blob/main/docs/reliable-background-jobs.md) — Article published and merged into main
 
 ## LinkedIn Posts
 - Post 1: TBD
